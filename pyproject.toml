@@ -5,6 +5,8 @@ description = "A simple decorator to measure a function excecution time. Clone o
 authors = ["Aleksey Semenov <alexsemenov1610@gmail.com>"]
 license = "MIT"
 readme = "README.rst"
+repository = "https://github.com/borgishmorg/how-short"
+
 
 [tool.poetry.dependencies]
 python = "^3.7"
