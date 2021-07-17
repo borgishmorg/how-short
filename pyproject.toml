@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "how-short"
-version = "0.1.0"
+version = "0.1.1"
 description = "A simple decorator to measure a function excecution time. Clone of https://pypi.org/project/how-long/."
 authors = ["Aleksey Semenov <alexsemenov1610@gmail.com>"]
 license = "MIT"
